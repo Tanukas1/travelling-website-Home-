@@ -1,0 +1,16 @@
+#featured {
+  background-color: rgba(254, 255, 255, 0.932);
+}
+#bg {
+  background-image: url("../../public/assets/images/back.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  z-index: -1;
+}
+#card {
+  background-color: rgb(98, 140, 140);
+}
+#footer {
+  background-color: rgb(35, 33, 33);
+}
